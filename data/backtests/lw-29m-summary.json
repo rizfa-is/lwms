@@ -1,0 +1,170 @@
+{
+  "generated_at": 1779361922,
+  "symbol": "XAUUSD",
+  "source": "data/history/xauusd-m5/*.json",
+  "m5_candles": 167983,
+  "m5_first_time": 1704175200,
+  "m5_last_time": 1779216900,
+  "scenarios": [
+    {
+      "label": "smash-day-h1-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "H1",
+      "candle_count": 14015,
+      "setup_count": 657,
+      "stats": {
+        "trades": 456,
+        "wins": 100,
+        "losses": 307,
+        "timeouts": 49,
+        "win_rate": 0.2193,
+        "expectancy_r": 0.0553,
+        "total_r": 25.2305,
+        "profit_factor": 1.0813,
+        "avg_win_r": 3.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -27.4071
+      }
+    },
+    {
+      "label": "smash-day-h4-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "H4",
+      "candle_count": 3682,
+      "setup_count": 153,
+      "stats": {
+        "trades": 112,
+        "wins": 22,
+        "losses": 73,
+        "timeouts": 17,
+        "win_rate": 0.1964,
+        "expectancy_r": 0.0004,
+        "total_r": 0.0436,
+        "profit_factor": 1.0006,
+        "avg_win_r": 3.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -21.1176
+      }
+    },
+    {
+      "label": "smash-day-d1-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "D1",
+      "candle_count": 614,
+      "setup_count": 28,
+      "stats": {
+        "trades": 21,
+        "wins": 2,
+        "losses": 12,
+        "timeouts": 7,
+        "win_rate": 0.0952,
+        "expectancy_r": -0.2222,
+        "total_r": -4.6664,
+        "profit_factor": 0.6667,
+        "avg_win_r": 3.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -6.3001
+      }
+    },
+    {
+      "label": "hidden-smash-h1-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "H1",
+      "candle_count": 14015,
+      "setup_count": 43,
+      "stats": {
+        "trades": 42,
+        "wins": 10,
+        "losses": 26,
+        "timeouts": 6,
+        "win_rate": 0.2381,
+        "expectancy_r": 0.181,
+        "total_r": 7.6041,
+        "profit_factor": 1.2829,
+        "avg_win_r": 3.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -7.0
+      }
+    },
+    {
+      "label": "hidden-smash-h4-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "H4",
+      "candle_count": 3682,
+      "setup_count": 10,
+      "stats": {
+        "trades": 10,
+        "wins": 2,
+        "losses": 5,
+        "timeouts": 3,
+        "win_rate": 0.2,
+        "expectancy_r": 0.2619,
+        "total_r": 2.6195,
+        "profit_factor": 1.5075,
+        "avg_win_r": 3.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -2.0
+      }
+    },
+    {
+      "label": "hidden-smash-d1-rr3",
+      "symbol": "XAUUSD",
+      "timeframe": "D1",
+      "candle_count": 614,
+      "setup_count": 4,
+      "stats": {
+        "trades": 4,
+        "wins": 0,
+        "losses": 1,
+        "timeouts": 3,
+        "win_rate": 0.0,
+        "expectancy_r": 0.4131,
+        "total_r": 1.6524,
+        "profit_factor": 2.6524,
+        "avg_win_r": 0.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -1.0
+      }
+    },
+    {
+      "label": "smash-day-d1-rr2",
+      "symbol": "XAUUSD",
+      "timeframe": "D1",
+      "candle_count": 614,
+      "setup_count": 28,
+      "stats": {
+        "trades": 22,
+        "wins": 6,
+        "losses": 12,
+        "timeouts": 4,
+        "win_rate": 0.2727,
+        "expectancy_r": -0.0147,
+        "total_r": -0.3242,
+        "profit_factor": 0.9755,
+        "avg_win_r": 2.0,
+        "avg_loss_r": -1.0,
+        "max_drawdown_r": -5.0843
+      }
+    },
+    {
+      "label": "hidden-smash-d1-rr2",
+      "symbol": "XAUUSD",
+      "timeframe": "D1",
+      "candle_count": 614,
+      "setup_count": 4,
+      "stats": {
+        "trades": 4,
+        "wins": 3,
+        "losses": 0,
+        "timeouts": 1,
+        "win_rate": 0.75,
+        "expectancy_r": 1.5327,
+        "total_r": 6.1308,
+        "profit_factor": Infinity,
+        "avg_win_r": 2.0,
+        "avg_loss_r": 0.0,
+        "max_drawdown_r": 0.0
+      }
+    }
+  ]
+}

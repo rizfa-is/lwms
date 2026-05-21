@@ -48,3 +48,6 @@ Thumbs.db
 cache/
 logs/
 *.local.log
+
+# Historical data (large, regeneratable)
+data/history/
