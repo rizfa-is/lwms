@@ -1,0 +1,82 @@
+{
+  "label": "hidden-smash-d1-rr3",
+  "symbol": "XAUUSD",
+  "timeframe": "D1",
+  "candle_count": 614,
+  "setup_count": 4,
+  "stats": {
+    "trades": 4,
+    "wins": 0,
+    "losses": 1,
+    "timeouts": 3,
+    "win_rate": 0.0,
+    "expectancy_r": 0.4131,
+    "total_r": 1.6524,
+    "profit_factor": 2.6524,
+    "avg_win_r": 0.0,
+    "avg_loss_r": -1.0,
+    "max_drawdown_r": -1.0
+  },
+  "trades": [
+    {
+      "direction": "BUY",
+      "pattern": "hidden_smash_day",
+      "entry_index": 287,
+      "entry_time": 1739232000,
+      "entry_price": 2907.33,
+      "sl": 2851.9,
+      "tp": 3074.42,
+      "rr_target": 3.0,
+      "exit_index": 297,
+      "exit_time": 1740441600,
+      "exit_price": 2914.58,
+      "exit_reason": "timeout",
+      "r_multiple": 0.1308
+    },
+    {
+      "direction": "BUY",
+      "pattern": "hidden_smash_day",
+      "entry_index": 519,
+      "entry_time": 1767657600,
+      "entry_price": 4448.36,
+      "sl": 4309.42,
+      "tp": 4865.7,
+      "rr_target": 3.0,
+      "exit_index": 529,
+      "exit_time": 1768867200,
+      "exit_price": 4762.85,
+      "exit_reason": "timeout",
+      "r_multiple": 2.2635
+    },
+    {
+      "direction": "BUY",
+      "pattern": "hidden_smash_day",
+      "entry_index": 535,
+      "entry_time": 1769558400,
+      "entry_price": 5180.47,
+      "sl": 4986.83,
+      "tp": 5754.95,
+      "rr_target": 3.0,
+      "exit_index": 537,
+      "exit_time": 1769731200,
+      "exit_price": 4986.83,
+      "exit_reason": "sl",
+      "r_multiple": -1.0
+    },
+    {
+      "direction": "SELL",
+      "pattern": "hidden_smash_day",
+      "entry_index": 594,
+      "entry_time": 1776816000,
+      "entry_price": 4718.74,
+      "sl": 4826.94,
+      "tp": 4398.5,
+      "rr_target": 3.0,
+      "exit_index": 604,
+      "exit_time": 1778025600,
+      "exit_price": 4690.81,
+      "exit_reason": "timeout",
+      "r_multiple": 0.2581
+    }
+  ]
+}
