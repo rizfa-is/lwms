@@ -1,0 +1,22 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    ".claude/SESSION-NOTES.md"
+  ],
+  "mcp": {
+    "lwms": {
+      "type": "local",
+      "command": [
+        "uv",
+        "run",
+        "--directory",
+        "D:\\CODING\\Trading\\mt5-mcp\\lwms",
+        "lwms",
+        "--transport",
+        "stdio"
+      ],
+      "enabled": true,
+      "timeout": 120000
+    }
+  }
+}
